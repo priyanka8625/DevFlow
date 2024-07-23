@@ -1,2 +1,3 @@
 # DevFlow
-DevFlow: Your Ultimate Developer Q&amp;A Hub
+## Unlock the Code with DevFlow: Ask, Answer, Advance
+DevFlow is currently under development. Stay tuned for updates!
